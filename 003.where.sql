@@ -1,0 +1,1 @@
+select * from vehicles where type = 'car' and status = 'available';
