@@ -10,10 +10,8 @@ create table users (
 
 --* create table vehicles
 create table vehicles ( 
-    vehicles_id serial primary key, 
-    name varchar(200) not null, 
-    type varchar(20) not null check (type in ('car', 'bike', 'truk', 'van')), 
-    model int, 
+    vehicle_id serial primary key,     name varchar(200) not null, 
+    type varchar(20) not null check (type in ('car', 'bike', 'truck', 'van')),     model int, 
     registration_number varchar(100) unique not null, 
     rental_price int, 
     status varchar(20) not null default 'available' 
