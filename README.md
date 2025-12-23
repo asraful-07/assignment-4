@@ -41,10 +41,10 @@ The system includes the following main entities:
 
 ## 🔗 Relationships (Summary)
 
-- A user can rent multiple vehicles
-- A vehicle belongs to one category
-- A booking connects users and vehicles
-- Each booking can have a payment record
+- A user can rent multiple vehicles.
+- A vehicle belongs to one category.
+- A booking connects users and vehicles.
+- Each booking can have a payment record.
 
 ---
 
