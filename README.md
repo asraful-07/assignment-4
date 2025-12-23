@@ -83,7 +83,7 @@ The ERD is designed following proper normalization rules (up to 3NF).
 A complete explanation of the project, ERD, and SQL queries is provided in the viva video.
 
 🔗 **Viva Video Link:**  
-👉 Your Viva Video Link Here
+👉 [https://drive.google.com/file/d/1gq_0D2zG5Jrp-v3khZsgrPZfWYj7lwfv/view?usp=sharing]
 
 ---
 
